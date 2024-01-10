@@ -1,0 +1,7 @@
+"id_category","from_who_task","difficulty","priority","group_work"
+1,1,"easy","not important","yes"
+2,2,"moderate","important","no"
+3,3,"hard","critical","no"
+4,1,"hard","important","no"
+5,3,"easy","important","no"
+6,4,"very hard","important","no"

@@ -1,0 +1,10 @@
+"id","first_name","second_name","place_of_residence","family","kids_quantity","job"
+1,"name1","surname1","Kyiv","no",0,1
+2,"name2","surname2","Lviv","yes",1,2
+3,"name3","surname3","Ivano-frankivsk","yes",2,3
+4,"name4","surname4","Ivano-frankivsk","yes",1,4
+5,"name5","surname5","Ivano-frankivsk","no",0,1
+6,"name6","surname6","Ivano-frankivsk","no",0,2
+7,"name7","surname7","Kyiv","yes",0,2
+8,"name8","surname8","Lviv","yes",1,1
+9,"name9","surname9","Ivano-frankivsk","yes",3,2

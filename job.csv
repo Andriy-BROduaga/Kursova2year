@@ -1,0 +1,5 @@
+"id_job","job_name","possible_groupwork","salary","workhour_per_day"
+1,"student","yes",0,"07:00:00"
+2,"lector","no",20000,"08:00:00"
+3,"the head of departament","no",35000,"09:00:00"
+4,"Dean of the Faculty","no",50000,"10:00:00"
